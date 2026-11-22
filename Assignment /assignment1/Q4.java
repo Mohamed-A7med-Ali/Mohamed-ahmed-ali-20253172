@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Problem4 {
+public class Q4 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int days = input.nextInt();
