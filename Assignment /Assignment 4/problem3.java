@@ -1,4 +1,4 @@
-public class Main {
+public class problem3 {
 
     public static double average(int a, int b) {
         return (a + b) / 2.0;
