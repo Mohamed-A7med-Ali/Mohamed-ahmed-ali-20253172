@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class problem2 {
 
     public static double coneVolume(double dValue, double hValue) {
         double r = dValue / 2;
