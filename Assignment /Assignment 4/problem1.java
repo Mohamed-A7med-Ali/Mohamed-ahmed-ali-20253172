@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class problem1 {
 
     public static double getDouble(Scanner s, String prompt) {
         System.out.print(prompt);
