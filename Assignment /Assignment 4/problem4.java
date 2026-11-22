@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class problem4 {
 
     public static String maskEmail(String email) {
         email = email.trim();
